@@ -331,6 +331,12 @@
         "direction": "ltr"
       },
       {
+        "id": "slovenian",
+        "label": "Slovenian (QWERTZ)",
+        "authors": ["samo_lego"],
+        "direction": "ltr"
+      },
+      {
         "id": "spanish",
         "label": "Spanish (QWERTY)",
         "authors": [ "patrickgold" ],
@@ -584,7 +590,7 @@
       {
         "id": "tamil",
         "label": "Tamil",
-        "authors": [ "yashpalgoyal1304" ],
+        "authors": [ "Clem0908" ],
         "direction": "ltr"
       },
       {

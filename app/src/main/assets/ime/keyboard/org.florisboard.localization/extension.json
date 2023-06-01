@@ -54,6 +54,7 @@
     { "id": "it", "authors": [ "patrickgold" ] },
     { "id": "iw", "authors": [ "Antony" ] },
     { "id": "ja-JP-jis", "authors": [ "waelwindows" ] },
+    { "id": "kab", "authors": [ "yanis867" ] },
     { "id": "ko", "authors": [ "patrickgold", "Hayleia" ] },
     { "id": "ku", "authors": [ "GoRaN" ] },
     { "id": "lt", "authors": [ "patrickgold" ] },
@@ -519,6 +520,15 @@
       }
     },
     {
+      "languageTag": "sl-SI",
+      "composer": "org.florisboard.composers:appender",
+      "currencySet": "org.florisboard.currencysets:euro",
+      "popupMapping": "org.florisboard.localization:sl-SI",
+      "preferred": {
+        "characters": "org.florisboard.layouts:slovenian"
+      }
+    },
+    {
       "languageTag": "lv-LV",
       "composer": "org.florisboard.composers:appender",
       "currencySet": "org.florisboard.currencysets:euro",
@@ -678,6 +688,23 @@
       "composer": "org.florisboard.composers:appender",
       "currencySet": "org.florisboard.currencysets:euro",
       "popupMapping": "org.florisboard.localization:ast",
+      "preferred": {
+        "characters": "org.florisboard.layouts:qwerty"
+      }
+    },
+    {
+      "languageTag": "ta-lk",
+      "composer": "org.florisboard.composers:appender",
+      "currencySet": "org.florisboard.currencysets:indian_rupee",
+      "preferred": {
+        "characters": "org.florisboard.layouts:tamil"
+      }
+    },
+    {
+      "languageTag": "kab",
+      "composer": "org.florisboard.composers:appender",
+      "currencySet": "org.florisboard.currencysets:euro",
+      "popupMapping": "org.florisboard.localization:kab",
       "preferred": {
         "characters": "org.florisboard.layouts:qwerty"
       }
